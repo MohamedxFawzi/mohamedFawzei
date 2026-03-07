@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Mohamed Fawzei, a motivated web developer specializing in Theme Building and designing appealing user interfaces (UI/UX).<br>I have a strong passion for creating interactive websites that come alive with smooth animation, and I am always keen to learn and apply new animation techniques to elevate the user experience.<br>Currently, I am actively building my expertise in the modern frontend landscape by mastering React.js for developing scalable web applications, and I use package management systems like GPM for efficient project workflow.
+I am Mohamed Fawzi, a motivated web developer specializing in Theme Building and designing appealing user interfaces (UI/UX).<br>I have a strong passion for creating interactive websites that come alive with smooth animation, and I am always keen to learn and apply new animation techniques to elevate the user experience.<br>Currently, I am actively building my expertise in the modern frontend landscape by mastering React.js for developing scalable web applications, and I use package management systems like GPM for efficient project workflow.
 
 
 ## 🌐 Socials:
